@@ -15,6 +15,7 @@ Each shader includes a live Shadertoy demo, parameter documentation, and Unity p
 |---|---|---|---|
 | [Cross-Hatching](./crosshatch/) | Pen & ink | [▶ Live](https://www.shadertoy.com/view/7f2GWR) | Luminance-driven hatch layers + value noise |
 | [Toon + Rim Light](./toon-rimlight/) | Cel / anime | [▶ Live](https://www.shadertoy.com/view/sfj3WR) | Stepped diffuse + hue-shift zones + Fresnel rim |
+| [Null Cathedral](./null-cathedral/) | Fractal / Sci-fi | [▶ Live](#) | Recursive space-fold + edge detection + 3-point lighting |
 
 > More shaders coming soon.
 
